@@ -139,3 +139,9 @@ Received Import Request.
   path: Assets/Scenes
   artifactKey: Guid(125b86267bd88ba4b833254a06063db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(125b86267bd88ba4b833254a06063db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7194c73dd87b17a5799b87db09a1b40a') in 0.015146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 637.454910 seconds.
+  path: Assets/cubo.unity
+  artifactKey: Guid(16bf7a43ca2d78241bc7b4453d2e73f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cubo.unity using Guid(16bf7a43ca2d78241bc7b4453d2e73f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bde728e29aa99df928bc99bcdbc791') in 0.017913 seconds 
